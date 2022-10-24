@@ -1,4 +1,3 @@
-# test-repository
+# my very first repo
+Kalob is an awesome teacher
 
-This is a test description
-This is a second example
